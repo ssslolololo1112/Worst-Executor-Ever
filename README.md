@@ -3,9 +3,9 @@ u should use it not the best looking but it is decent,
 
 To download the executor look at the left and press releases click the "latest" button then scroll down and press Worst-Executor-Ever.zip, after it installs extract it to disk D: or C: your wish, open the folder press scroll down and find "Worst-Executor-Ever" press the "allow" or "yes" button in the Administrator Permissions wait for the executor then you are set.
 
-UNC : 99% - 98%
+UNC : 99%
 
-sUNC : not sure
+sUNC : 98%
 
 Level : 8
 
