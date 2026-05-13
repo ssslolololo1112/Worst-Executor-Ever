@@ -15,7 +15,7 @@ Injection method : erto3e4rortoergn
 
 Open-source? : No
 
-Virus? : No it is not a virus [ if you put the .zip file in virus.total, it will show alot of flags but those are false positives every executor has false positives no matter what i think ]
+Virus? : No it is not a virus [ if you put the .zip file in virus.total, it will show alot of flags but those are false positives every executor has false positives no matter which executor you download ]
 
 Q and A
 
